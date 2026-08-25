@@ -29,15 +29,13 @@
 
 ---
 
-## 🌟 Highlights
+## ✨ Features
 
-- **🚀 Native Borderless Stickers**: Dispatches transparent PNGs and GIFs as true, native stickers visible to everyone across Web, iOS, Android, and Desktop Messenger.
-- **🎭 Dual Send Modes**:
-  - **Instant One-Click Injection**: Send stickers or GIFs directly with a single click.
-  - **Attachment Staging**: Stage media in the composer with preview before sending.
-- **⚡ Zero-Lag Virtual Scrolling**: Seamlessly scrolls through vaults with thousands of items with zero frame drops.
-- **🔒 100% Privacy Focused**: All stickers and categories are stored locally in your browser (chrome.storage.local). Zero remote servers, tracking, or telemetry.
-- **🌐 Universal Browser Support**: Works across all Chromium browsers (**Google Chrome**, **Microsoft Edge**, **Brave**, **Opera**, **Arc**, **Vivaldi**).
+- **True Stickers**: Native borderless stickers visible on all platforms.
+- **Flexible Sending**: Instant 1-click send or attachment staging.
+- **Fast & Smooth**: Virtual scrolling with zero frame drops.
+- **100% Local**: No external servers, analytics, or tracking.
+- **Universal**: Runs on all Chromium browsers.
 
 ---
 
