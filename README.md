@@ -9,7 +9,7 @@
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/adejogjpndbddbpcanefdkgdajmaaekb?authuser=0&hl=en)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-success?style=for-the-badge&logo=google)](https://developer.chrome.com/docs/extensions/mv3/intro/)
 [![Privacy Focused](https://img.shields.io/badge/Privacy-100%25_Local-blueviolet?style=for-the-badge&logo=shield)](https://github.com/Oxazite)
-[![Version](https://img.shields.io/badge/Version-1.1.0-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/adejogjpndbddbpcanefdkgdajmaaekb?authuser=0&hl=en)
+[![Version](https://img.shields.io/badge/Version-1.1.1-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/adejogjpndbddbpcanefdkgdajmaaekb?authuser=0&hl=en)
 
 <br/>
 
