@@ -36,18 +36,13 @@
 
 ## ✨ Features
 
-- **True Native Stickers**: Dispatches custom media as native, borderless stickers visible across Web, iOS, and Android.
-- **Full E2EE Secret Chat Support**: Seamlessly send custom borderless stickers in End-to-End Encrypted conversations.
-- **Hardware-Accelerated WebCodecs**: Powered by an isolated Chromium Offscreen Document and native `ImageDecoder` for smooth 390+ frame animations with zero UI lag.
-- **Smooth Video-to-GIF Conversion**: In-browser client-side video conversion with preserved motion, keeping animations lightweight without server processing.
-- **Theme Synchronization**: Automatic detection and lockstep transitions matching Facebook Dark and Light modes.
-- **Bilingual Interface**: Full Vietnamese and English localization with automatic interface language detection.
-- **Adaptive Quality Compression**: Preserves native resolution and frame counts while dynamically keeping payloads within platform limits.
-- **Dual Send Modes**: Instant 1-click dispatch or attachment staging with live preview before sending.
-- **Multi-Select & Bulk Operations**: Select multiple items for batch categorization, starring, deleting, and ZIP export.
-- **Keyboard Navigation**: Fast arrow-key navigation with instant Enter-to-send support.
-- **100% Local & Private**: All media stays strictly inside browser local storage (`chrome.storage.local`). Zero external servers, analytics, or telemetry.
-- **Universal Chromium Support**: Seamlessly runs on Chrome, Brave, Edge, Opera, Arc, and other Chromium browsers.
+- **Custom stickers on PC**: Create, save and send custom stickers (as well as custom animated stickers!) as you wish with a simple right-click save.
+- **Video support**: Send MP4, WebM, and MOV files with preserved quality.
+- **Full-Screen Viewer**: Preview media with zoom, pan, and built-in file conversion mechanisms.
+- **Organization**: Custom categories, search, favorites, with backup features to import and export media.
+- **Automatic theme synchronization**: Seamlessly adapts between Messenger's Dark and Light modes.
+- **Multilingual support**: Full English and Vietnamese localization with automatic interface language detection.
+- **100% local & private**: All media is stored locally on your device.
 
 ---
 
@@ -69,8 +64,10 @@ Install directly from the official **Chrome Web Store** with 1 click:
 
 ---
 
-## 📄 License & Copyright
+## 📄 License & Disclaimer
 
 © 2026 Oxazite. All rights reserved.
 
 This repository is for showcase and issue tracking purposes only. The underlying source code, algorithms, and binary distributions are proprietary and protected under copyright law. Unauthorized copying, distribution, modification, or reverse engineering is strictly prohibited.
+
+> **Disclaimer:** Messenger Media Manager is an independent open-source project and is not affiliated with, sponsored by, or endorsed by Meta Platforms, Inc. or Facebook.
