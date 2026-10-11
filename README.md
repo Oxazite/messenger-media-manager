@@ -4,7 +4,7 @@
 
 # Messenger Media Manager
 
-### The Ultimate Custom Stickers, GIFs, & Media Manager for Facebook Messenger
+### The Ultimate Custom Stickers, GIFs, & Media Manager for Facebook and Messenger
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/adejogjpndbddbpcanefdkgdajmaaekb?authuser=0&hl=en)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-success?style=for-the-badge&logo=google)](https://developer.chrome.com/docs/extensions/mv3/intro/)
