@@ -4,11 +4,11 @@
 
 # Messenger Media Manager
 
-### Custom Stickers, GIFs, & Media Manager for Facebook and Messenger
+### Custom Stickers, GIFs, & Media Manager for Messenger and Facebook
 
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-success?style=for-the-badge&logo=google)](https://developer.chrome.com/docs/extensions/mv3/intro/)
 [![Privacy Focused](https://img.shields.io/badge/Privacy-100%25_Local-blueviolet?style=for-the-badge&logo=shield)](https://github.com/Oxazite)
-[![Version](https://img.shields.io/badge/Version-1.2.0-orange?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/Version-2.0.0-orange?style=for-the-badge)](#)
 
 <br/>
 
@@ -21,37 +21,37 @@
 ## 📸 Previews
 
 <div align="center">
-  <img src="assets/screenshots/preview1.png" alt="Drawer Preview" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <p><em>Embedded media drawer directly inside Messenger with custom categories & search</em></p>
+  <img src="assets/screenshots/preview1.png" alt="Media Manager Drawer Preview" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+  <p><em>Custom sticker drawer inside Messenger with search, filters, categories, and quick save</em></p>
   <br/>
-  <img src="assets/screenshots/preview2.png" alt="Sticker Tray & Categories" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <p><em>Category organization, favorites, and quick media filtering</em></p>
+  <img src="assets/screenshots/preview2.png" alt="Right-Click Web Capture Preview" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+  <p><em>Right-click any image, GIF, or video on the web to add it to your collection</em></p>
   <br/>
-  <img src="assets/screenshots/preview3.png" alt="Multi-Select & Bulk Actions" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <p><em>Multi-select and bulk actions for seamless media vault management</em></p>
+  <img src="assets/screenshots/preview3.png" alt="Full-Size Media Preview Modal" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+  <p><em>Full-size preview modal to send or download any saved item</em></p>
+  <br/>
+  <img src="assets/screenshots/preview4.png" alt="Edit Sticker Modal Preview" width="380" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+  <p><em>Built-in sticker editor with flip, outline styles, search keywords, and categories</em></p>
 </div>
 
 ---
 
 ## ✨ Features
 
-- **Custom Stickers on PC**: Send images, animated GIFs, and videos directly as native stickers into chat.
-- **One-Click Media Save**: Right-click any image, GIF, or video across Messenger to save it instantly to your personal media vault.
-- **Sticker Editor**: Add clean white outlines, soft gradient glow outlines, or flip stickers horizontally with a single click.
-- **Convert Video to GIF**: Convert video files or existing video stickers directly into lightweight animated GIFs.
-- **Voice Note Downloader**: Download voice messages directly from chat as lossless 16-bit PCM WAV audio files.
-- **One-Way Stealth Mode**: Conceal outbound typing indicators and read receipts permanently without sacrificing incoming message status.
-- **Fast Organization**: Custom categories, instant search tags, favorites, and full ZIP backup/restore.
-- **100% Private & Local**: All media and settings remain strictly on your local device.
+- **Save anything from anywhere**: Right-click any image, GIF, or video on the web, drag and drop files, or save straight from Messenger chats.
+- **Your own sticker drawer**: Open your collection right in the chat bar, search instantly, filter by GIF/Image/Video, and organize favorites into custom tabs.
+- **Easy built-in editor**: Crop & zoom, flip, add or remove white and gradient sticker outlines, and trim video clips before sending.
+- **Extra chat perks**: Download voice messages and hide your Read or Typing status globally or per person.
+- **100% private**: Everything stays on your device with easy backup and restore—no account or tracking.
 
 ---
 
-## 🆕 What's New in v1.2.0
+## 🆕 What's New in v2.0.0
 
-- **Gradient Outline & Aesthetic Styling**: Soft radial gradient outline support alongside classic white outlines, with clean 16px outline stripping.
-- **In-Chat Video-to-GIF Conversion**: Right-click any existing video sticker to convert it directly to an animated GIF.
-- **Streamlined Media Processing**: Clean, distraction-free conversion progress dialog.
-- **Performance & Reliability Hardening**: Zero-IPC large file downloads, hardware audio decoding lifecycle cleanup, and instant cross-tab metadata synchronization.
+- **In-Page Crop & Video Trimmer**: Adjust sticker framing and trim video clips right inside the preview window.
+- **Outline & Flip Styles**: Toggle white or gradient sticker outlines and flip stickers horizontally in one click.
+- **Custom Read & Typing Privacy**: Hide or allow Read Receipts and Typing Status per conversation or for everyone.
+- **Faster & More Reliable Backups**: Smooth full-library backup export/import, bulk actions, and instant multi-tab sync.
 
 ---
 
