@@ -20,7 +20,7 @@
 
 ## 📸 Previews
 
-https://github.com/user-attachments/assets/8f64e61f-2045-443e-b70a-22d7240df0c8
+https://github.com/user-attachments/assets/3db299bb-dfd1-4e85-ad75-0f0bbd268775
 
 <table>
   <tr>
