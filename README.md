@@ -20,19 +20,28 @@
 
 ## 📸 Previews
 
-<div align="center">
-  <img src="assets/screenshots/preview1.png" alt="Media Manager Drawer Preview" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <p><em>Custom sticker drawer inside Messenger with search, filters, categories, and quick save</em></p>
-  <br/>
-  <img src="assets/screenshots/preview2.png" alt="Right-Click Web Capture Preview" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <p><em>Right-click any image, GIF, or video on the web to add it to your collection</em></p>
-  <br/>
-  <img src="assets/screenshots/preview3.png" alt="Full-Size Media Preview Modal" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <p><em>Full-size preview modal to send or download any saved item</em></p>
-  <br/>
-  <img src="assets/screenshots/preview4.png" alt="Edit Sticker Modal Preview" width="380" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <p><em>Built-in sticker editor with flip, outline styles, search keywords, and categories</em></p>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/preview1.png" alt="Media Manager Drawer Preview" width="100%"/><br/>
+      <sub>Custom sticker drawer inside Messenger with search, filters, categories, and quick save</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/preview2.png" alt="Right-Click Web Capture Preview" width="100%"/><br/>
+      <sub>Right-click any image, GIF, or video on the web to add it to your collection</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/preview3.png" alt="Full-Size Media Preview Modal" width="100%"/><br/>
+      <sub>Full-size preview modal to send or download any saved item</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/preview4.png" alt="Edit Sticker Modal Preview" width="175"/><br/>
+      <sub>Built-in sticker editor with flip, outline styles, search keywords, and categories</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
