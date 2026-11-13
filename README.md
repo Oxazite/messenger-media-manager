@@ -20,6 +20,8 @@
 
 ## 📸 Previews
 
+https://github.com/user-attachments/assets/8f64e61f-2045-443e-b70a-22d7240df0c8
+
 <table>
   <tr>
     <td align="center" width="50%">
